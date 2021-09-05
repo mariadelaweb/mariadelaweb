@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariadelaweb
-- 👀 I’m istarting my developer career
+- 👀 I’m starting my developer and cybersecurity career
 - 🌱 I’m currently learning web development and cybersecurity
 - 💞️ I’m looking to collaborate on ... time will tell
 - 📫 You can follow me on twitter on @mariadelaweb
